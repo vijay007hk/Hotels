@@ -9,7 +9,6 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-//@SuppressWarnings("restriction")
 public class SignInTest2 extends DriverPath{
 	
     WebDriver driver ;
